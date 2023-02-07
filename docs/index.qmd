@@ -1,5 +1,5 @@
 ---
-title: "docs"
+title: "Quarto Demo Docs"
 ---
 
 This is a Quarto website.
